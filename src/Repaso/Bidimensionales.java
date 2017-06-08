@@ -30,7 +30,7 @@ public static void main(String[] args)
 			}
      }
 	// foreach
-	System.out.println("Se imprime con el foreach");
+	System.out.println("Se imprime con el FOREACH");
 	
 	for (int[] x : ejemplo)
 		{
